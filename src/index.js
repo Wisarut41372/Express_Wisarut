@@ -24,7 +24,7 @@ app.use("/user", userRoute);
 
 // Routing Table
 app.get("/",(req, res)=>{
-    res.send("Hello from 77777777777");
+    res.send("Hello from 11111111");
 });
 
 app.get("/login",(req, res)=>{
